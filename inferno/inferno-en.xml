@@ -210,7 +210,7 @@
             </lg>
 
             <lg n="16" xml:id="lg016">
-               <l n="46">“Tell me, my Master, tell me, thou my Lord,”</l>
+               <l n="46">“Tell me, my <persName>Master</persName>, tell me, thou my Lord,”</l>
                <l n="47">Began I, with desire of being certain</l>
                <l n="48">Of that Faith which o’ercometh every error,</l>
             </lg>
@@ -223,7 +223,7 @@
 
             <lg n="18" xml:id="lg018">
                <l n="52">Replied: “I was a novice in this state,</l>
-               <l n="53">When I saw hither come a Mighty One,</l>
+               <l n="53">When I saw hither come a <persName cert="medium" type="fictional">Mighty One</persName>,</l>
                <l n="54">With sign of victory incoronate.</l>
             </lg>
 
