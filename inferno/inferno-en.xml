@@ -180,7 +180,7 @@
             </lg>
 
             <lg n="11" xml:id="lg011">
-               <l n="31">To me the Master good: “Thou dost not ask</l>
+               <l n="31">To me the <persName>Master</persName> good: “Thou dost not ask</l>
                <l n="32">What spirits these, which thou beholdest, are?</l>
                <l n="33">Now will I have thee know, ere thou go farther,</l>
             </lg>
@@ -193,7 +193,7 @@
 
             <lg n="13" xml:id="lg013">
                <l n="37">And if they were before Christianity,</l>
-               <l n="38">In the right manner they adored not God;</l>
+               <l n="38">In the right manner they adored not <persName cert="medium" type="fictional">God</persName>;</l>
                <l n="39">And among such as these am I myself.</l>
             </lg>
 
