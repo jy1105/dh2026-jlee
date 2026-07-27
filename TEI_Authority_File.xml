@@ -47,6 +47,16 @@
                Consortium's Board of Directors.</note>
          </person>
 
+		<person xml:id="person-JL001">
+			<persName>Jaeyeol Lee</persName>
+			<affiliation ref="#org-AKS01">The Academy of Korean Studies</affiliation>
+			<faith>Christianity</faith>
+			<occupation>PhD student</occupation>
+			<nationality>Korean</nationality>
+			<note>
+			   <ref target="https://digitalhumanities.kr/members/jaeyeol.html">Jaeyeol Lee</ref> is a PhD candidate at the Dept. of Cultural Informatics in the Academy of Korean Studies. He lives in Seoul, Korea.</note>
+		 </person>  
+
       </listPerson>
 
       <!-- Place entities are stored in a <listPlace> element -->
